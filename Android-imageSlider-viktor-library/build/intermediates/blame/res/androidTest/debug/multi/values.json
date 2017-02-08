@@ -1,0 +1,146 @@
+[
+    {
+        "outputFile": "E:\\AndroidStudioProjects\\NewsFlash\\Android-imageSlider-viktor-library\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2975,
+                    "endColumn": 57,
+                    "endOffset": 3028
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\NewsFlash\\Android-imageSlider-viktor-library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 2975,
+                        "endColumn": 57,
+                        "endOffset": 3028
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 3033,
+                    "endColumn": 55,
+                    "endOffset": 3084
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\NewsFlash\\Android-imageSlider-viktor-library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 3033,
+                        "endColumn": 55,
+                        "endOffset": 3084
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 3089,
+                    "endColumn": 54,
+                    "endOffset": 3139
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\NewsFlash\\Android-imageSlider-viktor-library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 3089,
+                        "endColumn": 54,
+                        "endOffset": 3139
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 3144,
+                    "endColumn": 43,
+                    "endOffset": 3183
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\NewsFlash\\Android-imageSlider-viktor-library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 3144,
+                        "endColumn": 43,
+                        "endOffset": 3183
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 3188,
+                    "endLine": 53,
+                    "endColumn": 12,
+                    "endOffset": 4058
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\NewsFlash\\Android-imageSlider-viktor-library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 3188,
+                        "endLine": 53,
+                        "endColumn": 12,
+                        "endOffset": 4058
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 4063,
+                    "endLine": 73,
+                    "endColumn": 12,
+                    "endOffset": 5003
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\NewsFlash\\Android-imageSlider-viktor-library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 4063,
+                        "endLine": 73,
+                        "endColumn": 12,
+                        "endOffset": 5003
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 5008,
+                    "endLine": 92,
+                    "endColumn": 12,
+                    "endOffset": 5878
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioProjects\\NewsFlash\\Android-imageSlider-viktor-library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 4,
+                        "startOffset": 5008,
+                        "endLine": 92,
+                        "endColumn": 12,
+                        "endOffset": 5878
+                    }
+                }
+            }
+        ]
+    }
+]
